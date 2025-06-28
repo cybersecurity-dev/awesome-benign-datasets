@@ -33,7 +33,7 @@
 
 ###  Online Benign Sharing Platforms
 - 
-- 
+- [F-Droid](https://f-droid.org/en/) - **F-Droid** is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform.
 - 
 
 [🔼 Back to top](#awesome-benign-datasets-)
