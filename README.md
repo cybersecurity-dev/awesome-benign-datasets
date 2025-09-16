@@ -14,24 +14,34 @@
     - [Linux](#linux)
     - [Windows](#windows)
     - [Android](#android)
+        - [Online Sharing Platforms](#online-sharing-platforms) 
   - [Specific Dataset](#specific-dataset)
     - [Network](#network)
-    - [Online Benign Sharing Platforms ](#online-benign-sharing-platforms)
+  - [My Other Awesome Lists](#my-other-awesome-lists)
+  - [Contributing](#contributing)
+  - [Contributors](#contributors)
 
+---
 ## Operating System Based
 
 ### Linux
 - 
 -
 -
+
 ### Windows
 - 
 -
 - 
+
 ### Android
 - 
 -
--
+
+####  Online Sharing Platforms
+- [F-Droid](https://f-droid.org/en/) - **F-Droid** is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform.
+
+---
 ## Specific Dataset
 
 ### Network 
@@ -39,11 +49,8 @@
 - 
 - 
 
-###  Online Benign Sharing Platforms
-- 
-- [F-Droid](https://f-droid.org/en/) - **F-Droid** is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform.
-- 
-
+---
+##
 ### My Other Awesome Lists
 You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
 
