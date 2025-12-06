@@ -1,4 +1,7 @@
-# Awesome Benign Datasets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+
+# **`Awesome`** Benign Datasets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
 
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
@@ -50,7 +53,9 @@
 - 
 
 ---
+
 ##
+
 ### My Other Awesome Lists
 You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
 
