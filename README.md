@@ -28,7 +28,7 @@
 ## Operating System Based
 
 ### Linux
-- 
+- You can use the binaries under the `/bin` folder. 
 -
 -
 
