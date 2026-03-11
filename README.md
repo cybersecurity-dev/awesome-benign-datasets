@@ -48,7 +48,7 @@
 ## Specific Dataset
 
 ### Network 
-- 
+- [The Stratosphere IPS Project](https://www.stratosphereips.org/datasets-normal) - The Stratosphere IPS Project has three different network dataset. Malware, [Normal](https://mcfp.felk.cvut.cz/publicDatasets/), and Mixed traffic.
 - 
 - 
 
