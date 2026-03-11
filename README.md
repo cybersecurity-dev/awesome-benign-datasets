@@ -49,7 +49,7 @@
 
 ### Network 
 - [The Stratosphere IPS Project](https://www.stratosphereips.org/datasets-normal) - The Stratosphere IPS Project has three different network dataset. Malware, [Normal](https://mcfp.felk.cvut.cz/publicDatasets/), and Mixed traffic.
-- 
+- [CICIDS2017](https://www.unb.ca/cic/datasets/ids-2017.html) -  CICIDS2017 dataset contains benign (_Monday, Normal Activity, 11.0G_) and the most up-to-date common attacks, which resembles the true real-world data (PCAPs). 
 - 
 
 ---
