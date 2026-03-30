@@ -15,9 +15,11 @@
 ## 📖 Contents
   - [Operating System Based](#operating-system-based)
     - [Linux](#linux)
+        - [Online Sharing Platforms](#windows-online-sharing-platforms)  
     - [Windows](#windows)
+        - [Online Sharing Platforms](#linux-online-sharing-platforms) 
     - [Android](#android)
-        - [Online Sharing Platforms](#online-sharing-platforms) 
+        - [Online Sharing Platforms](#android-online-sharing-platforms) 
   - [Specific Dataset](#specific-dataset)
     - [Network](#network)
   - [My Other Awesome Lists](#my-other-awesome-lists)
@@ -29,19 +31,20 @@
 
 ### Linux
 - You can use the binaries under the `/bin` folder. 
+
+#### Linux Online Sharing Platforms
 - [IzzySoft Apt Repositories for Ubuntu](https://apt.izzysoft.de/ubuntu/)
--
 
 ### Windows
 - 
+
+#### Windows Online Sharing Platforms
 -
-- 
 
 ### Android
 - 
--
 
-####  Online Sharing Platforms
+####  Android Online Sharing Platforms
 - [F-Droid](https://f-droid.org/en/) - **F-Droid** is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform.
 - [IzzyOnDroid F-Droid Repository](https://apt.izzysoft.de/fdroid/)
 
