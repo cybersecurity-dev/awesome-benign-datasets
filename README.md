@@ -29,7 +29,7 @@
 
 ### Linux
 - You can use the binaries under the `/bin` folder. 
--
+- [IzzySoft Apt Repositories for Ubuntu](https://apt.izzysoft.de/ubuntu/)
 -
 
 ### Windows
@@ -43,8 +43,10 @@
 
 ####  Online Sharing Platforms
 - [F-Droid](https://f-droid.org/en/) - **F-Droid** is an installable catalogue of FOSS (Free and Open Source Software) applications for the Android platform.
+- [IzzyOnDroid F-Droid Repository](https://apt.izzysoft.de/fdroid/)
 
 ---
+
 ## Specific Dataset
 
 ### Network 
