@@ -15,9 +15,9 @@
 ## 📖 Contents
   - [Operating System Based](#operating-system-based)
     - [Linux](#linux)
-        - [Online Sharing Platforms](#windows-online-sharing-platforms)  
+        - [Online Sharing Platforms](#linux-online-sharing-platforms)  
     - [Windows](#windows)
-        - [Online Sharing Platforms](#linux-online-sharing-platforms) 
+        - [Online Sharing Platforms](#windows-online-sharing-platforms) 
     - [Android](#android)
         - [Online Sharing Platforms](#android-online-sharing-platforms) 
   - [Specific Dataset](#specific-dataset)
