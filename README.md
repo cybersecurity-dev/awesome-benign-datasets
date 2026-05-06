@@ -63,6 +63,8 @@
 
 ##
 
+You can access **`Malware Dataset`** via [this link](https://github.com/cybersecurity-dev/awesome-malware-datasets/).
+
 ### My Other Awesome Lists
 You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
 
