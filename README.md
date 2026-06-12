@@ -59,6 +59,7 @@
 - [CICIDS2017](https://www.unb.ca/cic/datasets/ids-2017.html) -  CICIDS2017 dataset contains benign (_Monday, Normal Activity, 11.0G_) and the most up-to-date common attacks, which resembles the true real-world data (PCAPs). 
 - [TII-SSRC-23](https://www.kaggle.com/datasets/daniaherzalla/tii-ssrc-23) - This dataset offers a comprehensive collection of network traffic patterns, meticulously compiled to support the development and research of Intrusion Detection Systems (IDS). 
 - [Benign Network Traffic PCAP Dataset for Reproducibility](https://zenodo.org/records/19206234)
+
 ---
 
 ##
@@ -69,11 +70,12 @@ You can access **`Malware Dataset`** via [this link](https://github.com/cybersec
 You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
 
 ### Contributing
-
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
 ### Contributors
-
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-benign-datasets/graphs/contributors)!
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 [🔼 Back to top](#awesome-benign-datasets-)
