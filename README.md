@@ -14,14 +14,14 @@
 
 ## 📖 Contents
   - [Operating System Based](#operating-system-based)
-    - [Linux](#linux)
+    - [Linux](#linux-)
         - [Online Sharing Platforms](#linux-online-sharing-platforms)  
-    - [Windows](#windows)
+    - [Windows](#windows-)
         - [Online Sharing Platforms](#windows-online-sharing-platforms)
-    - [Android](#android)
+    - [Android](#android-)
         - [Online Sharing Platforms](#android-online-sharing-platforms) 
   - [Specific Dataset](#specific-dataset)
-    - [Network](#network)
+    - [Network](#network-)
   - [My Other Awesome Lists](#my-other-awesome-lists)
   - [Contributing](#contributing)
   - [Contributors](#contributors)
@@ -29,20 +29,20 @@
 ---
 ## Operating System Based
 
-### Linux
+### Linux <img src="https://img.shields.io/badge/Datasets-2%20available-blue"/>
 - You can use the binaries under the `/bin` folder.
 - [Dataset of Packed ELF files](https://github.com/packing-box/dataset-packed-elf) - This dataset was made from a set of 482 not packed cleanware including executable and object files coming from `/usr/bin` from a fresh installation of Ubuntu 20.04.
 
 #### Linux Online Sharing Platforms
 - [IzzySoft Apt Repositories for Ubuntu](https://apt.izzysoft.de/ubuntu/)
 
-### Windows
+### Windows <img src="https://img.shields.io/badge/Datasets-0%20available-blue"/>
 - 
 
 #### Windows Online Sharing Platforms
 -
 
-### Android
+### Android <img src="https://img.shields.io/badge/Datasets-2%20available-blue"/>
 - 
 
 ####  Android Online Sharing Platforms
@@ -53,7 +53,7 @@
 
 ## Specific Dataset
 
-### Network 
+### Network <img src="https://img.shields.io/badge/Datasets-5%20available-blue"/>
 
 - [The Stratosphere IPS Project](https://www.stratosphereips.org/datasets-normal) - The Stratosphere IPS Project has three different network dataset. Malware, [Normal](https://mcfp.felk.cvut.cz/publicDatasets/), and Mixed traffic.
 - [CICIDS2017](https://www.unb.ca/cic/datasets/ids-2017.html) -  CICIDS2017 dataset contains benign (_Monday, Normal Activity, 11.0G_) and the most up-to-date common attacks, which resembles the true real-world data (PCAPs). 
