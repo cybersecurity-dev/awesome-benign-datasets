@@ -23,7 +23,7 @@
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
-    <a href="https://www.youtube.com/@CyberThreatDefence"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
+    <a href="https://www.youtube.com/@CyberThreatDefense"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
     &nbsp;
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
@@ -43,7 +43,7 @@
   - [Contributing](#contributing)
   - [Contributors](#contributors)
 
----
+
 ## Operating System Based
 
 ### Linux <img src="https://img.shields.io/badge/Datasets-2%20available-blue"/>
@@ -53,11 +53,11 @@
 #### Linux Online Sharing Platforms
 - [IzzySoft Apt Repositories for Ubuntu](https://apt.izzysoft.de/ubuntu/)
 
-### Windows <img src="https://img.shields.io/badge/Datasets-0%20available-blue"/>
+### Windows <img src="https://img.shields.io/badge/Datasets-1%20available-blue"/>
 - 
 
 #### Windows Online Sharing Platforms
--
+- [Malicious Powershell Script Database (`MPSD`) - BENIGN](https://github.com/das-lab/mpsd/tree/main/powershell_benign_dataset)
 
 ### Android <img src="https://img.shields.io/badge/Datasets-2%20available-blue"/>
 - 
